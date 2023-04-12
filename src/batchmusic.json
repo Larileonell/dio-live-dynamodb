@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "One direction"},
+                  "SongTitle": {"S": "Best song ever"},
+                  "AlbumTitle": {"S": "midnights memories"},
+                  "SongYear": {"S": "2013"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "One Direction"},
+                  "SongTitle": {"S": "Story of my life"},
+                  "AlbumTitle": {"S": "Midnights Memories"},
+                  "SongYear": {"S": "2013"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "One Direction"},
+                  "SongTitle": {"S": "Midnights Memories"},
+                  "AlbumTitle": {"S": "Midnights memories"},
+                  "SongYear": {"S": "2013"}
                 }
             }
         }
